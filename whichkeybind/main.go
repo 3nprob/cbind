@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/gdamore/tcell/v2"
+	"maunium.net/go/tcell"
 	"code.rocketnine.space/tslocum/cbind"
 )
 

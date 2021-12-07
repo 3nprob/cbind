@@ -5,7 +5,7 @@ import (
 	"strings"
 	"unicode"
 
-	"github.com/gdamore/tcell/v2"
+	"maunium.net/go/tcell"
 )
 
 // Modifier labels

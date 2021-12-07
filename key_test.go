@@ -3,7 +3,7 @@ package cbind
 import (
 	"testing"
 
-	"github.com/gdamore/tcell/v2"
+	"maunium.net/go/tcell"
 )
 
 type testCase struct {

@@ -7,7 +7,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/gdamore/tcell/v2"
+	"maunium.net/go/tcell"
 )
 
 const pressTimes = 7
