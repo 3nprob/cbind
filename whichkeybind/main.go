@@ -5,7 +5,7 @@ import (
 	"os"
 
 	"maunium.net/go/tcell"
-	"code.rocketnine.space/tslocum/cbind"
+	"github.com/3nprob/cbind"
 )
 
 func main() {
